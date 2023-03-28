@@ -1,0 +1,13 @@
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\bin\Debug\u2 p2 topicos.exe.config
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\bin\Debug\u2 p2 topicos.exe
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\bin\Debug\u2 p2 topicos.pdb
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\bin\Debug\ClassLi.dll
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\bin\Debug\ClassLi.pdb
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.csprojAssemblyReference.cache
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.csproj.CopyComplete
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.exe
+C:\Users\LATITUDE5490\source\repos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.pdb
+C:\Users\edtom\Documents\TEC 4\Topicos de programación\u2 p2 topicos\u2 p2 topicos\u2 p2 topicos\bin\Debug\u2 p2 topicos.exe.config
+C:\Users\edtom\Documents\TEC 4\Topicos de programación\u2 p2 topicos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.exe
+C:\Users\edtom\Documents\TEC 4\Topicos de programación\u2 p2 topicos\u2 p2 topicos\u2 p2 topicos\obj\Debug\u2 p2 topicos.pdb
