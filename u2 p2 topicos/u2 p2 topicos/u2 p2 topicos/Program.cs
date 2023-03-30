@@ -23,7 +23,7 @@ namespace u2_p2_topicos
             }
             else
             {
-                Console.WriteLine("Error \n");
+                Console.WriteLine("Error no ingreso los datos correctamente \n");
             }
             Console.ReadKey();
         }
